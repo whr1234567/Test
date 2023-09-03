@@ -98,7 +98,7 @@
 [B站](https://bilibili.com "点击进入b站")
 
 ### 插入图片
-![截图](https://user.qzone.qq.com/1024545747/photo/V126lxn62S7aRr/ "桌面截图")  
+![截图](http://a1.qpic.cn/psc?/V126lxn62S7aRr/ruAMsa53pVQWN7FLK88i5tLzPgTpwWnEkcFI*VLNFrXqn*FOI6gSm6QMZPBlbaYrpwwK5zht.GrH7MxfnLHpqPuRSt*dfdmumWVjtylari8!/c&ek=1&kp=1&pt=0&bo=zQFXAQAAAAABF6o!&t=5&tl=3&vuin=1024545747&tm=1693717200&dis_t=1693719193&dis_k=eedeba40a2d152fdb3a65bd492de0535&sce=60-2-2&rf=newphoto&t=5 "桌面截图")  
 
 
 
