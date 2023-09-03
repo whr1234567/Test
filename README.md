@@ -25,7 +25,7 @@
 
 ### 列表
 
-####无序列表
+#### 无序列表
 
 * R星
 	* 荒野大镖客
@@ -54,10 +54,51 @@
 ### 插入代码片段
 
 ```c
-   	#include
-
+   	#include <stdio.h>
+	int main(void)
+	{
+		printf("hahaha");
+		return 0;
+	}
 ```
 
+```cpp
+	#include <iostream>
+	using namespace std;
+	int main()
+	{
+		cout<<"hehehe"<<endl;
+		return 0;
+	}
+```
+
+```python
+	import os;
+```
+
+```bash
+	#查看网络设备
+	ifconfig 
+	#查看网络状态 ip绑定端口号
+	upstate -apn
+	#模拟客户端连接服务器
+	nc 192.168.1.99 8080
+```
+
+### 表格
+
+姓名|技能|血量
+--|:--:|--:
+刘备|仁德|4
+关羽|武圣|4
+张飞|咆哮|4
+
+### 超链接
+
+[B站](https://bilibili.com "点击进入b站")
+
+###插入图片
+![截图](C://Users//whr//Desktop//c++//出金.jpg "桌面截图")  
 
 
 
